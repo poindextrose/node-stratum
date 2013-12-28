@@ -10,7 +10,7 @@
     "node": ">= 0.8.0"
   },
   "bin": {
-    "stratum-notify": "./bin/stratum-notify"
+    "stratum-notify.js": "./bin/stratum-notify.js"
   },
   "main": "./lib",
   "directories": {
